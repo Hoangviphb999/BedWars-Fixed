@@ -2,6 +2,7 @@
 This is Ultimate BedWars plugins for Pocketmine MP and fixed
 Author: Boi1216
 This is the Fixed Bedwars UI by Hoangviphb999, the new feature:
+Poggit-dev: https://poggit.pmmp.io/ci/Hoangviphb999/BedWars-Fixed/BedWars-Fixed
 
 1) Fixed for SOLO 1v1, but when 2 team bed are broken, it cause an error.
 2) Deleted image on the item shop and the upgrade shop.
